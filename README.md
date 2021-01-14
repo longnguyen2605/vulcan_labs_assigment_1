@@ -1,13 +1,16 @@
 # Vulcan Labs Interview Case for Android Developers
-You have been invited to an assigned section. A requirement before the interview is to finish this task in 3 days from the day you received. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. 
+You have been invited to an assigned section. A requirement before the interview is to finish this task in 45 minutes. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. 
 
 Please read the **Q&A for both Design and Coding** so that you are not lost on what requirements you need.
 
 ## Task details
-- You are provided a Sketch design. Please implement the UI and as much as you can. For the missing UI assets, you may use the Internet to find anything that can replace the design. YOU should decide on what should be added and what should not.
-Sketch design: please take at the attachment bellow
+- You are provided a Figma design. Please implement the UI and as much as you can. For the missing UI assets, you may use the Internet to find anything that can replace the design. YOU should decide on what should be added and what should not.
+- Make network call to get **JSON DB** as an API's respone to fill UI elements
 
-- Your assignment should be hosted on a public Github repository
+- Resources:
+	+ Figma design: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/profile_design.fig
+	+ JSON DB: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/db.json
+
 
 ## Design Q&A
 - How should the **images** be displayed?
@@ -15,9 +18,9 @@ Sketch design: please take at the attachment bellow
 You have the freedom to implement it any way you want. 
 Here is an example of implementation: The images on the top should be switched when you swipe the screen in that area while the images on the bottom should be fullscreen if you tap on one of them.
 
-- How do I download the Sketch **assets**?
+- How do I download the Figma **assets**?
 
-You can export all the assets as SVG-files individually or in chunks. Please use Google if you have zero experience with Sketch, we expect you to be able to find the information yourself.
+You can export all the assets as SVG-files individually or in chunks. Please use Google if you have zero experience with Figma, we expect you to be able to find the information yourself.
 
 
 ## Coding FAQs
