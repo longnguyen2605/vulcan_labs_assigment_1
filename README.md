@@ -9,7 +9,7 @@ Please read the **Q&A for both Design and Coding** so that you are not lost on w
 
 - Resources:
 	+ Figma design: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/profile_design.fig
-	+ JSON DB: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/db.json
+	+ JSON DB: https://raw.githubusercontent.com/longnguyen2605/vulcan_labs_assignment_1/main/db.json
 
 
 ## Design Q&A
