@@ -8,7 +8,7 @@ Please read the **Q&A for both Design and Coding** so that you are not lost on w
 - Make network call to get **JSON DB** as an API's respone to fill UI elements
 
 - Resources:
-	+ Figma design: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/profile_design.fig
+	+ Design: https://github.com/longnguyen2605/vulcan_labs_assignment_1/blob/main/design.jpg
 	+ JSON DB: https://raw.githubusercontent.com/longnguyen2605/vulcan_labs_assignment_1/main/db.json
 
 
